@@ -1,0 +1,832 @@
+,name,count
+0,gephi,615
+1,vosviewer,85
+4,citespace,35
+5,twitter,34
+6, r ,31
+7,bibexcel,22
+8,gephi tool,19
+9,cytoscape,19
+10,ucinet,18
+11,nodexl,17
+12,python,17
+13,pajek,15
+14,vosviewer,13
+15,spss,13
+16,sciencescape,13
+17,networkx,12
+18,arcgis,12
+19,excel,12
+20,gps visualizer,11
+21,bibliometrix,11
+22,facebook,11
+23,sna,10
+24,tableau,10
+25,excel,9
+26,biblioshiny,9
+27,sci2,8
+29,spss,7
+32,scopus,7
+33,arnetminer,7
+34,histcite,7
+35,nvivo,6
+36,web of science,6
+37,neo4j,6
+38,pubmed,6
+40,sci2 tool,6
+41,google scholar,5
+43,r studio,5
+44,table2net,5
+45,openrefine,5
+46,igraph,5
+47,genecards,4
+49,publish or perish,4
+50,rstudio,4
+51,netdraw,4
+53,wos,4
+54,netvizz,4
+55,tulip,4
+56,david,4
+57,string,4
+60,coolgen,3
+61,forceatlas2,3
+62,instagram,3
+65,tcmsp,3
+66,netvizz application,3
+67,stata,3
+68,kegg,3
+69,hadoop,3
+70,apriori algorithm,3
+71,antconc,3
+72,netlytic,3
+73,blockchain,3
+74,wordcloud,3
+77,cnki,3
+78,word cloud,3
+79,leximancer,3
+82,random forest,2
+83,force atlas 2,2
+84,drar-cpi,2
+85,citespace 5.8.r3,2
+88,logistic regression,2
+89,rost content mining 6.0,2
+94,dblp,2
+97,maxqda,2
+101,concor,2
+102,osn,2
+104,vantagepoint,2
+108,gephi 0.9,2
+109,twitter api,2
+111,web scraping software,2
+112,google sheet,2
+113,graphfes,2
+114,moodle,2
+119,iramuteq,2
+120,conet,2
+121,hyphe,2
+122,enrichr,2
+123,dya,2
+126,science of science tool,2
+130,google,2
+131,azure machine,2
+132,nodexl pro,2
+133,stylo,2
+134,citespace software,2
+136,dmi-tcat,2
+137,imapbuilder,2
+138,wikipedia,2
+141,girvan-newman clustering,2
+142,graph-tool python library,2
+143,wanfang,2
+144,pubchem,2
+145,rost cm6,2
+146,metascape,2
+147,palladio,2
+148,qgis,2
+150,java,2
+151,voyant tools,2
+152,recogito,2
+153,graphviz,2
+157,scopus,2
+158,histcite,2
+160,kibana,2
+161,classifier,2
+163,network analysis software,2
+168,sentiment analysis,2
+169,ysis,2
+171,social networking websites,1
+173,urdu network,1
+174,endnote x7,1
+176,true experiment design,1
+177,nastalik script,1
+182,nails,1
+183,visual foxpro,1
+186,jupyter,1
+187,lattes platform,1
+188,jpathfinder,1
+199,foodmicrobionet,1
+201,rithm,1
+202,foodex2,1
+206,shiny,1
+220,rds,1
+221,rsa,1
+226,citespace 5.3,1
+227,graph-tool,1
+228,qgraph,1
+229,osmnx,1
+230,cluego,1
+231,swisstarget prediction platform,1
+239,minivan,1
+243,node xl,1
+254,apache-based server,1
+267,scop,1
+268,omeka,1
+280,stata,1
+281,sati3,1
+288,iewer,1
+290,whatsapp,1
+294,shinygo,1
+295,pycharm,1
+306,youtube data tools,1
+307,revman 5.3.0,1
+308,stata 12,1
+309,block cipher,1
+310,tushare,1
+311,web carma,1
+312,diana-mirpath v3.0,1
+313,targetscan database,1
+319,ahrefs,1
+320,diablo,1
+325,rfpn,1
+326,net-map,1
+333,maxqdal,1
+343,tphusion,1
+347,adobe photoshop,1
+348,gimp,1
+360,spacebook,1
+361,lexmath,1
+364,toxtree,1
+369,netlogo,1
+371,nodex,1
+372,netminer,1
+374,openstreetmaps,1
+389,wolfram alpha,1
+392,likeanalyzer,1
+393,cebook,1
+394,shodan,1
+400,fluid survey,1
+401,hiquant,1
+402,gep-hi,1
+403,online social network,1
+404,data crawler,1
+405,information systems,1
+406,tudy,1
+407,internet of vehicles,1
+408,wvam,1
+409,ng methods,1
+410,an interactive web-based visualisation,1
+411,virtual learning environment,1
+412,idam,1
+413,ucinet software,1
+414,nltk,1
+415,in situ framework,1
+416,applications,1
+417,gc-viz system,1
+418,db-csc,1
+419,openord,1
+420,rk visualization tools,1
+421,ppi visualization tools,1
+422,navigator,1
+423,semi-intelligent decision-making systems,1
+424,the software,1
+425,wigis,1
+426,graphgl,1
+427,cgv,1
+428,javascript info vis toolkit,1
+429,gc-viz,1
+430,large graph visualization tools,1
+431,honeycomb,1
+432,visant,1
+433,sina microblog,1
+434,renren,1
+435,lucene,1
+436,lbd system,1
+437,sv,1
+438,topgraphvisualizer,1
+439,gmine,1
+440,d solution,1
+441,standard statistic tools,1
+442,gamer,1
+443,geo,1
+444,linkurious,1
+445,gephi 0.8.1,1
+446,socioviz,1
+447,blic health,1
+448,izz,1
+449,netv,1
+450,netviz,1
+451,weka,1
+452,emic years,1
+453,communication tools,1
+454,sparql queries,1
+455,gephi tool set,1
+456,analytical systems,1
+457,pool,1
+458,pymol,1
+459,umls,1
+460,moneta,1
+461,c networks,1
+462,dyconet,1
+463,the algorithm,1
+464,python script,1
+465,mst-knn algorithm,1
+466,abm,1
+467,agent-based model,1
+468,network,1
+469,geph,1
+470,special graph based mining tools,1
+471,gad,1
+472,science of sci,1
+473,ence,1
+474,gpsvisualizer,1
+475,suitable software,1
+476,knowledgematrix plus,1
+477,serious games,1
+478,visualrs,1
+479,scriptlattes,1
+480,prisma,1
+481,web-based,1
+482,bigdata,1
+483,viable system model (vsm),1
+484,student assessment systems,1
+485,matlab 2014b,1
+486,force atlas,1
+487,winsteps 3.73,1
+488,api software,1
+489,scopus database,1
+490,playstation network,1
+491,steam,1
+492,dark souls 3,1
+493,karyotype view,1
+494,lsa,1
+495,365 university platform,1
+496,social network learning analytics tool,1
+497,gs,1
+498,sci2tool,1
+499,non-negative matrix factorization (nmf),1
+500,gruba,1
+501,qda,1
+502,scimago marketing journal list,1
+503,wordle,1
+504,molecular dynamic,1
+505,medical information system,1
+506,databases,1
+507,gephi graph platform,1
+508,networkanalyzer,1
+509,parameter-free incremental clustering algorithm,1
+510,research gate,1
+511,data analytics tools,1
+512,the proposed system,1
+513,biosis,1
+514,platform,1
+515,dot,1
+516,blocksci,1
+517,bitcoin blockchain,1
+518,ipython,1
+519,matlab 2014,1
+520,qms records,1
+521,net-expo,1
+522,ars,1
+523,sis,1
+524,stata/icv.14,1
+525,drugbank 4.1,1
+526,txm,1
+527,cartodb,1
+528,wordsmith,1
+529,q-gis,1
+530,digital humanities tools,1
+531,digital preservation systems,1
+532,software for graph and network analysis,1
+533,kh coder,1
+534,automated data analysis tools,1
+535,dot-app,1
+536,recruitment system,1
+537,gephi™,1
+538,adme/t calculation method,1
+539,force atlas2,1
+540,symplur,1
+541,cle,1
+542,ion,1
+543,webgestalt,1
+544,r packages scripts,1
+545,r 3.1.3,1
+546,gephi 0.8.2,1
+547,arcgis 10.2,1
+548,dot-compatible applications,1
+549,socstat,1
+550,hca,1
+551,k-cores decomposition,1
+552,sna metrics,1
+553,transcad,1
+554,mallet,1
+555,carto,1
+556,voyant,1
+557,excell,1
+558,pitch constellation,1
+559,circular layout,1
+560,netbeans ide,1
+561,small world model generator,1
+562,modularity,1
+563,netmin,1
+564,igraph-based,1
+565,r-with,1
+566,вконтакте,1
+567,vkontakte,1
+568,the compactified horizontal visibility graph algorithm,1
+569,the visibility graph algorithm,1
+570,r-ws,1
+571,gtf metric,1
+572,information support systems,1
+573,prediction model,1
+574,cms,1
+575,catma,1
+576,konlpy,1
+577,nt,1
+578,tring,1
+579,s,1
+580,gephi softwa,1
+581,programming,1
+582,cycletron,1
+583,reactome,1
+584,pherry,1
+585,rdp classifier,1
+586,r 3.2.3,1
+587,statistical package for the social sciences,1
+588,google+,1
+589,knime,1
+590,rapidminer,1
+591,twitch.tv,1
+592,microsoft office excel 2019,1
+593,brice,1
+594,5w1h,1
+595,application results,1
+596,equipment selection system,1
+597,techlab mobile application,1
+598,keylines,1
+599,dash framework,1
+600,smnx library,1
+601,kepler.gl,1
+602,c simulation,1
+603,dash sylvereye,1
+604,city-roads,1
+605,webgl,1
+606,atlas.ti,1
+607,excel software,1
+608,knn,1
+609,twitter academic api,1
+610,pina database,1
+611,ncw,1
+612,textwells platform,1
+613,digital tools,1
+614,ess,1
+615,looker studio,1
+616,online questionn,1
+617,arcgis online,1
+618,phi,1
+619,ts,1
+620,word cloud map,1
+621,electronic correspondence,1
+622,fruchterman-reingold,1
+623,aide-el,1
+624,intelligent ml algorithms,1
+625,loglet,1
+626,patseer,1
+627,ucinet program,1
+628,textom system,1
+629,bibl,1
+630,community network algorithm,1
+631,ibm spss modeler18.0,1
+632,metaboanalyst 5.0,1
+633,simca-14.1,1
+634,abc classification method,1
+635,node xl,1
+636,gephi forceatlas2,1
+637,electronic medical records,1
+638,feature maps,1
+639,igraph package,1
+640,socnetv,1
+641,ork,1
+642,saps,1
+643,pyspark,1
+644,e-disease graph,1
+645,spark sql,1
+646,long-covid,1
+647,odel,1
+648,gephi graphics platform,1
+649,scholarcy,1
+650,likert,1
+651,slr,1
+652,myb59,1
+653,intervention level framework,1
+654,wsi,1
+655,itespace,1
+656,digital pathology-aided diagnosis systems,1
+657,c,1
+658,program,1
+659,lysis software,1
+660,rk mapping,1
+661,web of sci,1
+662,gephi v.0.9.2,1
+663,anfang vip,1
+664,community analysis,1
+665,epidata 3.1,1
+666,k-core analytic hierarchy process,1
+667,serps,1
+668,semrush,1
+669,ion 0.9.5,1
+670,web of science core collection,1
+671,cormicor,1
+672,model_maptree,1
+673,model_igraph,1
+674,corbionetwork,1
+675,ggclusternet,1
+676,model_gephi,1
+677,r package,1
+678,gi,1
+679,dof1.5,1
+680,discord,1
+681,y20,1
+682,ibm-spss,1
+683,kaggle,1
+684,cheminform,1
+685,bioinformatics result,1
+686,sklearn,1
+687,rdkit,1
+688,deep-learning-based regression models,1
+689,cheminfor,1
+690,deepscreening,1
+691,tcmio database,1
+692,autodocktools,1
+693,clusterpro-filer,1
+694,semantic network analysis,1
+695,twitter application programming interface,1
+696,academic track application programming interface,1
+697,applica,1
+698,a framework of digital innovation ecosystem,1
+699,super,1
+700,forceatlas,1
+701,jieba chinese word segmentation tool,1
+702,mnb,1
+703,yes,1
+704,textblob,1
+705,unicet,1
+706,sna model,1
+707,network analysis tools,1
+708,efficient tools,1
+709,citespace 6.0.r1,1
+710,text rank analyzer,1
+711,gephi netw,1
+712,network model,1
+713,geoda model,1
+714,invest-geoda-gephi,1
+715,ork model,1
+716,r®,1
+717,nviv,1
+718,o12,1
+719,scopus author name search,1
+720,ol,1
+721,nlp based statistical modules,1
+722,med bibexcel,1
+723,a text analytics tool,1
+724,pipeline,1
+725,tropes,1
+726,tracker technologies,1
+727,dmi tracker tool,1
+728,ucinet6,1
+729,k-mean model,1
+730,tric,1
+731,twitter search,1
+732,ncapture,1
+733,vr applications,1
+734,softwar,1
+735,tweets,1
+736,gephi ar,1
+737,gephisto,1
+738,powerx,1
+739,page rank (pr),1
+740,google meet,1
+741,zoom cloud meetings,1
+742,structural topic modeling,1
+743,gephi web analysis tool,1
+744,web conferencing system,1
+745,apps,1
+746,xai,1
+747,app,1
+748,app store analysis frameworks,1
+749,exc,1
+750,mis,1
+751,biblioshiny package,1
+752,nts,1
+753,microsoft excel 2021,1
+754,k-core hierarchical analysis,1
+755,tos,1
+756,ite,1
+757,transkribus l,1
+758,computational text analysis,1
+759,oxygen,1
+760,rstudio-cloud,1
+761,tree of sci,1
+762,gepia,1
+763,bioconductor package,1
+764,cystoscope,1
+765,watts,1
+766,amos 26.0,1
+767,k-means,1
+768,bibliometrix-r,1
+769,pagerank analysis,1
+770,computer-assisted qualitative data analysis software,1
+771,maxqda series 2020,1
+772,gephi version 0.10.0,1
+773,swot analysis,1
+774,ibm spss statistics 21,1
+775,azure machine learning,1
+776,xbb.1.5,1
+777,python 3.6.8,1
+778,wps excel 2019,1
+779,web of sc,1
+780,haracteristics,1
+781,hfacs model,1
+782,hfacs,1
+783,modularity algorithm,1
+784,spss statistics 20.0,1
+785,o,1
+786,r 4.2.1,1
+787,electronic health records,1
+788,wos database,1
+789,complex network k-core hierarchical analysis,1
+790,spss 25.0,1
+791,microsoft excel 2019,1
+792,qualtrics software,1
+793,drone emprit,1
+794,fit-for-purpose software,1
+795,textom 4.0,1
+796,spss 27.0,1
+797,network pharmacology,1
+798,network visualization softwa,1
+799,science,1
+800,bim,1
+801,ai-bim,1
+802,science tool,1
+803,vantagepoint software,1
+804,nodexl pro software,1
+805,lgorithm,1
+806,python programm,1
+807,sualization tool for social network analysis,1
+808,modularity optimization,1
+809,y,1
+810,nodexl software,1
+811,pdftotext library,1
+812,lda,1
+813,gensim library,1
+814,mega 7.0,1
+815,litmaps,1
+816,litmaps search engine,1
+817,gephi 0.9.7,1
+818,spss modeler 18,1
+819,"database for annovation, visualization, and integrated discovery (david)",1
+820,edicine systems pharmacology database and analysis platform,1
+821,excel 2018,1
+822,cytoscape 3.7.1,1
+823,network.2,1
+824,spss 15,1
+825,word2vec,1
+826,r language,1
+827,spss 22.0,1
+828,aves,1
+829,system,1
+830,lex network,1
+831,fasttext-based pre-trained embedding vectors,1
+832,cnn,1
+833,our model,1
+834,tencent,1
+835,k-means clustering,1
+836,word2vec library,1
+837,some team,1
+838,boson,1
+839,epi_global,1
+840,antmover,1
+841,ms power bi,1
+842,ms teams,1
+843,odf,1
+844,microsoft power business intelligence,1
+845,snap,1
+846,snap analysis,1
+847,gnutella protocol,1
+848,eau,1
+849,dvs,1
+850,plotly,1
+851,tabl,1
+852,python 3.7,1
+853,open source software,1
+854,g-model,1
+855,nvivo 12,1
+856,network based clustering model,1
+857,n,1
+858,kmeans++ algorithm,1
+859,wordij,1
+860,x,1
+861,tripadvisor,1
+862,crawler,1
+863,theory &method,1
+864,theory & method,1
+865,atlas. ti software,1
+866,the social commerce user interest mapping scheme,1
+867,vosviewer software,1
+868,xts,1
+869,scm,1
+870,minitab,1
+871,search engines,1
+872,zotero,1
+873,scopu,1
+874,firefox,1
+875,social applications,1
+876,twork,1
+877,youtub,1
+878,wechat,1
+879,ucinet tool,1
+880,python 3.8,1
+881,bi,1
+882,toolkit for behavioral analysis model,1
+883,origin8,1
+884,ciência vitae platform,1
+885,crawler software,1
+886,batman-tcm,1
+887,network pharmacology-based analysis,1
+888,clinical prescription database,1
+889,spss statistics 26,1
+890,cytoscape 3.8.2,1
+891,ibm spss modeler 18.0,1
+892,genclip3,1
+893,online mendelian inheritance in man（omim）,1
+894,ctd,1
+895,embase,1
+896,cochrane library,1
+897,webtool,1
+898,gephi network visualization software,1
+899,learning analysis,1
+900,molecular docking,1
+901,target,1
+902,prediction,1
+903,r project,1
+904,vina molecular docking,1
+905,cbm,1
+906,ms excel,1
+907,ms access,1
+908,wmd,1
+909,network shortcuts,1
+910,keyword-search,1
+911,d3.js,1
+912,seed 1,1
+913,dijkstra,1
+914,network visualizations,1
+915,mesh,1
+916,microsoft teams,1
+917,plotdb,1
+918,crimson hexagon,1
+919,sina wechat,1
+920,chinese word segmentation,1
+921,ad,1
+922,scifinder,1
+923,bioinformatics tools,1
+924,swd,1
+925,cart search,1
+926,dijkstra’s algorithm,1
+927,ocarina,1
+928,graph analysis algorithm,1
+929,prm,1
+930,learning system,1
+931,python web crawler,1
+932,elasticsearch,1
+933,computational algorithms,1
+934,fr,1
+935,jgraph,1
+936,fa2,1
+937,linlog,1
+938,sigma.js,1
+939,nvivo-12,1
+940,yed,1
+941,scientopy 2.0.3,1
+942,bicomb,1
+943,circos,1
+944,tagcrowd web application,1
+945,connected-papers-tool,1
+946,k,1
+947,compositeview,1
+948,dash,1
+949,qrs nvivo,1
+950,qsr nvivo,1
+951,twitter application programming,1
+952,citespace 5.7r4,1
+953,clauset–newman–moore algorithm,1
+954,combined classifier,1
+955,knowledge graph,1
+956,q&a system,1
+957,trans r model,1
+958,rawgraphs,1
+959,konlpy module,1
+960,spss statistics,1
+961,complex network technology,1
+962,gephi network analysis and visualization tools,1
+963,cytoscap,1
+964,ls,1
+965,string tool,1
+966,ada boost algorithm,1
+967,ada boost,1
+968,r-studio,1
+969,gcluto,1
+970,orange tool,1
+971,digital chinese medicine,1
+972,vosviewer 1.6.15,1
+973,software technology,1
+974,google maps,1
+975,dariah geo-browser,1
+976,statistica,1
+977,maxent software,1
+978,funguild,1
+979,lefse,1
+980,r packages,1
+981,usearch,1
+982,qiime software,1
+983,biotech company platform,1
+984,qiime,1
+985,blas,1
+986,geographic information systems,1
+987,remote sensing,1
+988,salsa,1
+989,lda topic modeling,1
+990,ahrefs tool,1
+991,online questionnaire,1
+992,nvivo software,1
+993,elsevier scival,1
+994,dingxiangyuan forum,1
+995,cb-tpd,1
+996,e-le,1
+997,k-nearest neighbors,1
+998,ne,1
+999,r bibliometrix,1
+1000,discourse network analysis software,1
+1001,libreoffice,1
+1002,calc,1
+1003,spygraph,1
+1004,sqlite,1
+1005,cite space,1
+1006,ource software,1
+1007,gephi programme,1
+1008,inarisk application,1
+1009,inarisk,1
+1010,spss 21,1
+1011,biopore,1
+1012,tags,1
+1013,word clou,1
+1014,gephi method,1
+1015,pca algorithm,1
+1016,bilstm-crf,1
+1017,web-crawler,1
+1018,transe,1
+1019,t-hoarder,1
+1020,topic modelling,1
+1021,dia forms,1
+1022,jupyter lab,1
+1023,jira software,1
+1024,sra,1
+1025,webqda,1
+1026,gephi system,1
+1027,twork sources,1
+1028,aper,1
+1029,osint,1
+1030,lysis,1
+1031,spss statistics 25.0及spss modeler统计软件对数据进行频次分析,1
+1032,v4,1
+1033,sql server,1
+1034,spss statistics 25.0,1
+1035,spss modeler,1
+1036,python 3.9.2,1
+1037,god,1
+1038,novel digital humanities tools,1
+1039,prot,1
+1040,protégé,1
+1041,égé,1
+1042,artificial intelligence robots,1
+1043,automatic suicide monitoring system,1
+1044,24-h crisis warning and intervention system,1
+1045,jieba tool,1
+1046,histcitetm,1
+1047,clustering algorithms,1
+1048,publicly available information scanning utilities,1
+1049,perl,1
+1050,gephi gra,1
+1051,ph analysis and visualization software,1
+1052,excel 2016,1
+1053,hi,1
+1054,inkscape,1
+1055,toppcluster,1
